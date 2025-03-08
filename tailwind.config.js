@@ -9,7 +9,7 @@ export default {
       colors:{
         primaryTitle: "#2D336B",
         primaryContenten: "#7886C7",
-        primarySubcontent: "#56021",
+        primarySubcontent: "#7886C7",//#5602
         primaryBase: "#4A628A",
         primaryAccent: "#7886C7",
         primaryBg: "#F5F5F5",
